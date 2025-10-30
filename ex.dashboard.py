@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+
 st.title('meu primeiro dashboard')
 st.text('meu nome é vitória')
 st.button('aperte aqui')
